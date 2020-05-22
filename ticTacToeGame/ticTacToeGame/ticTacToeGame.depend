@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586771747 source:c:\users\adnan\onedrive\documentos\0_meus arquivos\1 - cursos\1 - udemy\20 - c programming for beginners - master the c language\tictactoegame\tictactoegame\tictactoegame.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
